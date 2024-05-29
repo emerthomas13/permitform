@@ -1,0 +1,50 @@
+[ {
+
+    id: 2,
+    createdAt: 2024-05-28T16:07:46.358Z,
+    updatedAt: 2024-05-28T16:07:46.358Z,
+    name: 'Over-the-Counter Submission Process',
+    requirements: {
+        exterior: {
+            Other: 'false',
+                Fencing: 'false',
+                'Exterior doors': 'true',
+                'Garage door replacement': 'true'
+        }
+
+        ,
+        interior: {
+            Other: 'false',
+                'New bathroom': 'false',
+                'Bathroom remodel': 'true',
+                'New laundry room': 'false'
+        }
+    }
+}
+
+,
+{
+
+id: 3,
+createdAt: 2024-05-28T16:07:46.358Z,
+updatedAt: 2024-05-28T16:07:46.358Z,
+name: 'In-House Submission Process',
+requirements: {
+    exterior: {
+        Other: 'true',
+            Fencing: 'false',
+            'Exterior doors': 'false',
+            'Garage door replacement': 'false'
+    }
+
+    ,
+    interior: {
+        Other: 'true',
+            'New bathroom': 'true',
+            'Bathroom remodel': 'false',
+            'New laundry room': 'true'
+    }
+}
+}
+
+]
