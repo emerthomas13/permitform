@@ -1,7 +1,10 @@
 # PermitFlow Assessment
 
-Here is my project
+For my project I used the base code given in the description. 
 
+Link to video demo and explanation: https://drive.google.com/drive/folders/1UA0jFT3Rw5V9PhGSbWxgdBsIRylduqp-?usp=sharing
+
+description: https://permitflow.notion.site/Software-Engineer-Case-Study-9d274bd8b3774c60aaf18cd46abb5bde
 ## Containers
 
 ```
